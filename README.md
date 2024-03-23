@@ -1,6 +1,8 @@
-# DM-SISU
+<p align="center>
+  <img src="/.github/sisu-logo-1.png" alt="SISU" />
+</p>
 
-Welcome to DM-SISU, a simple **Jupyter Notebook** project designed to extract data from [sisu.mec.gov.br](https://sisu.mec.gov.br). This website is renowned for providing information about public college acceptances in Brazil. Each year, new college vacancies are made available, and this data can be accessed through an API.
+**DM-SISU** is a simple **Jupyter Notebook** project designed to extract data from [sisu.mec.gov.br](https://sisu.mec.gov.br). This website is renowned for providing information about public college acceptances in Brazil. Each year, new college vacancies are made available, and this data can be accessed through an API.
 
 ## Where can I find the data?
 
