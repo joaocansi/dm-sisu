@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
   <img src="./.github/sisu-logo-1.png" alt="SISU" />
 </p>
 
